@@ -13,6 +13,7 @@ A platform connecting volunteers with NGOs and community initiatives based on in
 - AI-powered Skill Matching
 - Google Maps Integration
 - Donation System
+- Gamification – Earn points, unlock levels & rank weekly
 
 ## Technologies To be Used
 
