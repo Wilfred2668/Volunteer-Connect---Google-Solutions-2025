@@ -31,7 +31,7 @@ A platform connecting volunteers with NGOs and community initiatives based on in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Wilfred2668/Volunteer-Connect---Google-Solutions-2025.git
+git clone https://github.com/Wilfred2668/Volunteer-Connect-Google-Solutions-2025.git
 cd volunteer-connect
 ```
 
