@@ -2,7 +2,7 @@
 
 A platform connecting volunteers with NGOs and community initiatives based on interests, skills, and location. Built for the Google Solutions Challenge 2025.
 
-## Features
+## Features (Most of the features are not implemented yet)
 
 - User Authentication with Google Sign-In
 - Volunteer Opportunity Discovery
@@ -14,7 +14,7 @@ A platform connecting volunteers with NGOs and community initiatives based on in
 - Google Maps Integration
 - Donation System
 
-## Technologies Used
+## Technologies To be Used
 
 - Next.js 14 with App Router
 - TypeScript
@@ -31,7 +31,7 @@ A platform connecting volunteers with NGOs and community initiatives based on in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/volunteer-connect.git
+git clone https://github.com/Wilfred2668/Volunteer-Connect---Google-Solutions-2025.git
 cd volunteer-connect
 ```
 
@@ -85,13 +85,8 @@ volunteer-connect/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Google Solutions Challenge 2025
 - Next.js team for the amazing framework
 - Firebase team for the backend services
-- All contributors and volunteers
